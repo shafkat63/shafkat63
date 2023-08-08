@@ -1,4 +1,12 @@
 ### Hi there 👋
+#😎 Muhtasir Shafakt 
+
+**Software Engineer()** 
+Enthusiastic Computer Science Graduate who wants to build responsive websites, and wants to participate in the complete product development lifecycle of successfully launched applications.Looking for a role where I can learn and grow from experienced team members.
+
+
+
+
 
 <!--
 **shafkat63/shafkat63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
