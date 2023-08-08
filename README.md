@@ -51,7 +51,15 @@ Nice to meet you, I'm Muhtasir Shafkat
     <br />
     <br />
 </p>
+## Github Status 🏆
 
+<img src="https://github-stats-lemon.vercel.app/api?username=shafkat63&show_icons=true&hide_border=true&theme=react"
+    width="48%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shafkat63&theme=react" width="48%">
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shafkat63&theme=react-dark)
+<br>
 
 
 <!--
