@@ -19,6 +19,9 @@ Nice to meet you, I'm Muhtasir Shafkat
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
             src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a> &nbsp;
     &nbsp;
+    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
+            alt="javascript" width="40" height="40" /> </a> &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> &nbsp;
