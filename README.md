@@ -60,8 +60,18 @@ Nice to meet you, I'm Muhtasir Shafkat
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shafkat63&theme=react-dark)
 <br>
+<p align="center">Wanna Know me More?</p>
 
-
+<p align="center">
+    <a href="https://twitter.com/shafkat63" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/shafkat63/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" /></a>
+    <a href="https://medium.com/@msm.shafkat99" target="_blank">
+        <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" /></a>
+</p>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shafkat63.shafkat63"
+        alt="shafkat63 :: Visitor's Count" /></p>
 <!--
 **shafkat63/shafkat63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
