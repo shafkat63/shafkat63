@@ -16,9 +16,6 @@ Nice to meet you, I'm Muhtasir Shafkat
 
 
 <p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a> &nbsp;
-    &nbsp;
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
             alt="javascript" width="40" height="40" /> </a> &nbsp;
@@ -37,20 +34,25 @@ Nice to meet you, I'm Muhtasir Shafkat
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> &nbsp;
     &nbsp;
-    <br />
-    <br />
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> &nbsp; &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="40" height="40" /> </a> &nbsp; &nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a> &nbsp; &nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+    <br />
+    <br />
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a> &nbsp; &nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            alt="express" width="40" height="40" /> </a> &nbsp; &nbsp;
+     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" /> </a> &nbsp;
+    &nbsp;        
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" /> </a> &nbsp; &nbsp;
+    
+  
     <br />
     <br />
 </p>
