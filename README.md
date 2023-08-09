@@ -43,7 +43,7 @@ Nice to meet you, I'm Muhtasir Shafkat
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a> &nbsp; &nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+            src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"
             alt="express" width="40" height="40" /> </a> &nbsp; &nbsp;
      <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" /> </a> &nbsp;
