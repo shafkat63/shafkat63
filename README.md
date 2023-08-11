@@ -38,9 +38,6 @@ Nice to meet you, I'm Muhtasir Shafkat
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> &nbsp;
     &nbsp;
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40" /> </a> &nbsp;
-    &nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a> &nbsp; &nbsp;
@@ -58,8 +55,14 @@ Nice to meet you, I'm Muhtasir Shafkat
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a> &nbsp; &nbsp;
-    
-  
+    <br />
+    <br />
+             <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+            src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40" /> </a> &nbsp;
+             &nbsp;
+             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
+            src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40" height="40" /> </a> &nbsp;
+             &nbsp;
     <br />
     <br />
 </p>
