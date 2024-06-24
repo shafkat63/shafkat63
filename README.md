@@ -10,7 +10,7 @@ Nice to meet you, I'm Muhtasir Shafkat
 
 <br>
 <p align="center">
-    <img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060&t=st=1691571455~exp=1691572055~hmac=800ab3bbc48c44109c2f0f75628c812a957601c8560a3d950721c05b9704780f" alt="development" width="50%" height="50%" style="border-radius:15px" />
+    <img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060&t=st=1691571455~exp=1691572055~hmac=800ab3bbc48c44109c2f0f75628c812a957601c8560a3d950721c05b9704780f" alt="development" width="50%" height="50%" style="border-radius:50%;" />
 </p>
 
 ## My Weapons 🌟
