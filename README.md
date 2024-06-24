@@ -107,58 +107,14 @@ Nice to meet you, I'm Muhtasir Shafkat
   </tr>
 </table>
 
-<p align="left">
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"
-            alt="javascript" width="40" height="40" /> </a> &nbsp;
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a> &nbsp; &nbsp;
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="40" height="40" /> </a> &nbsp; &nbsp;
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a> &nbsp; &nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a> &nbsp;
-    &nbsp;
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" /> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> &nbsp; &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png"
-            alt="express" width="40" height="40" /> </a> &nbsp; &nbsp;
-     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" /> </a> &nbsp;
-    &nbsp;        
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> &nbsp; &nbsp;
-    <br />
-    <br />
-             <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
-            src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40" /> </a> &nbsp;
-             &nbsp;
-             <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img
-            src="https://www.svgrepo.com/show/452088/php.svg" alt="PHP" width="40" height="40" /> </a> &nbsp;
-             &nbsp;
-    <br />
-    <br />
-</p>
+
 ## Github Status 🏆
 
 <img src="https://github-stats-lemon.vercel.app/api?username=shafkat63&show_icons=true&hide_border=true&theme=react"
     width="48%" align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafkat63&theme=react" width="48%">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafkat63" alt="shafkat63" /></a> </p>
+
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shafkat63&theme=react-dark)
