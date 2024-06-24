@@ -56,6 +56,10 @@ Nice to meet you, I'm Muhtasir Shafkat
       <img src="https://skillicons.dev/icons?i=mongodb" />
       <br>Mongodb
     </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" />
+      <br>Python
+    </td>
   </tr>
   
   <tr style="background-color: red">
@@ -96,9 +100,10 @@ Nice to meet you, I'm Muhtasir Shafkat
       <br>Postman
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=redux" />
+      <br>Redux
     </td>
+    
   </tr>
 </table>
 
