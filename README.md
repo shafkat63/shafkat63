@@ -18,6 +18,69 @@ Nice to meet you, I'm Muhtasir Shafkat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafkat63&theme=react)](https://github.com/shafkat63/github-readme-stats)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" />
+      <br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" />
+      <br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" />
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" />
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" />
+      <br>PHP
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" />
+      <br>Laravel
+    </td>
+  </tr>
+  
+  <tr style="background-color: red">
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" />
+      <br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" />
+      <br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" />
+      <br>Sass
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" />
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" />
+      <br>Github
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=netlify" />
+      <br>Netlify
+    </td>
+  </tr>
+</table>
 
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img
