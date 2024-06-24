@@ -44,6 +44,18 @@ Nice to meet you, I'm Muhtasir Shafkat
       <img src="https://skillicons.dev/icons?i=laravel" />
       <br>Laravel
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <br>Node
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" />
+      <br>Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <br>Mongodb
+    </td>
   </tr>
   
   <tr style="background-color: red">
@@ -78,6 +90,14 @@ Nice to meet you, I'm Muhtasir Shafkat
     <td align="center">
       <img src="https://skillicons.dev/icons?i=netlify" />
       <br>Netlify
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" />
+      <br>Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" />
+      <br>Python
     </td>
   </tr>
 </table>
