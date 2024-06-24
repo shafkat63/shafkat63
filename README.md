@@ -9,7 +9,9 @@ Nice to meet you, I'm Muhtasir Shafkat
 - 📫 How to reach me: [msm.shafkat@gmail.com](mailto:msm.shafkat@gmail.com)
 
 <br>
-<img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060&t=st=1691571455~exp=1691572055~hmac=800ab3bbc48c44109c2f0f75628c812a957601c8560a3d950721c05b9704780f" alt="development" width="65%" height="65%" style="border-radius:15px" /> 
+<p align="center">
+    <img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060&t=st=1691571455~exp=1691572055~hmac=800ab3bbc48c44109c2f0f75628c812a957601c8560a3d950721c05b9704780f" alt="development" width="50%" height="50%" style="border-radius:15px" />
+</p>
 
 ## My Weapons 🌟
 
@@ -133,5 +135,3 @@ Nice to meet you, I'm Muhtasir Shafkat
 
 <p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shafkat63.shafkat63" alt="shafkat63 :: Visitor's Count" /></p>
 
-<!--
->
