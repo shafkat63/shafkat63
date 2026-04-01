@@ -1,137 +1,128 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-Nice to meet you, I'm Muhtasir Shafkat
+# I'm Muhtasir Shafkat
 
-## Who Am I? 🤠
-- 🤓 Software Engineer 
-- 👩‍💻 Working on Web Development 
-- 📝 Writing Words, Compiling Code
-- 🎯 Goal: To be a great Developer 
-- 📫 How to reach me: [msm.shafkat@gmail.com](mailto:msm.shafkat@gmail.com)
-
-<br>
-<p align="center">
-    <img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060&t=st=1691571455~exp=1691572055~hmac=800ab3bbc48c44109c2f0f75628c812a957601c8560a3d950721c05b9704780f" alt="development" width="50%" height="50%" style="border-radius:50%;" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3781DA&width=435&lines=Software+Engineer;Full-Stack+Web+Developer;Writing+Words%2C+Compiling+Code;Always+Learning..." alt="Typing SVG" />
 </p>
 
-## My Weapons 🌟
+## 🤠 Who Am I? 
+- 🤓 **Software Engineer** dedicated to building scalable web applications.
+- 👩‍💻 Specialized in **Modern Web Technologies** and the MERN/Laravel stacks.
+- 📝 Passionate about the intersection of clean code and clear documentation.
+- 🎯 **Goal:** To craft high-impact digital experiences and grow as a Developer.
+- 📫 **How to reach me:** [msm.shafkat@gmail.com](mailto:msm.shafkat@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafkat63&theme=react)](https://github.com/shafkat63/github-readme-stats)
+<p align="center">
+    <img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060" alt="development" width="40%" style="border-radius:20px; border: 2px solid #3781DA;" />
+</p>
 
+## 🌟 My Weapons
+
+### 💻 Tech Stack
 <table>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" />
-      <br>React
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JS" />
+        <br>JavaScript
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" />
-      <br>Next.js
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TS" />
+        <br>TypeScript
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" />
-      <br>JavaScript
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+        <br>React
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" />
-      <br>TypeScript
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next" />
+        <br>Next.js
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=php" />
-      <br>PHP
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" />
+        <br>Redux
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=laravel" />
-      <br>Laravel
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+        <br>PHP
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" />
-      <br>Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" />
-      <br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" />
-      <br>Python
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+        <br>Laravel
     </td>
   </tr>
-  
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" />
-      <br>HTML
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node" />
+        <br>Node.js
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" />
-      <br>CSS
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+        <br>Express
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" />
-      <br>Sass
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+        <br>MongoDB
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+        <br>Python
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" />
-      <br>Tailwind CSS
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+        <br>Tailwind
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" />
-      <br>Git
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass" />
+        <br>Sass
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" />
-      <br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=netlify" />
-      <br>Netlify
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postman" />
-      <br>Postman
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux" />
-      <br>Redux
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+        <br>Postman
     </td>
   </tr>
 </table>
 
-## GitHub Status 🏆
-
-<img src="https://github-stats-lemon.vercel.app/api?username=shafkat63&show_icons=true&hide_border=true&theme=react" width="48%" align="right">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shafkat63&theme=react" width="48%">
+### 🛠️ Tools & Deployment
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafkat63" alt="shafkat63" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,netlify,vscode,npm" />
 </p>
 
-<br>
+## 🏆 GitHub Status
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafkat63&theme=react&layout=compact" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-lemon.vercel.app/api?username=shafkat63&show_icons=true&hide_border=true&theme=react" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafkat63&theme=react" width="48%" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=shafkat63&theme=dracula&no-frame=true&column=7" alt="shafkat63" />
+    </a>
+</p>
+
+### 📈 Activity Graph
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shafkat63&theme=react-dark)
 
 <br>
 
-<p align="center">Wanna Know me More?</p>
+<p align="center"><b>Wanna Know me More?</b></p>
 
 <p align="center">
     <a href="https://twitter.com/shafkat63" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" />
+        <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
     <a href="https://www.linkedin.com/in/shafkat63/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://medium.com/@msm.shafkat99" target="_blank">
-        <img src="https://img.shields.io/badge/-Medium-%2337817f" alt="Medium" />
+        <img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
 </p>
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=shafkat63.shafkat63" alt="shafkat63 :: Visitor's Count" /></p>
-
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shafkat63.shafkat63" alt="Visitor's Count" />
+</p>
