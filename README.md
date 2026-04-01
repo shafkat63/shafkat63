@@ -2,7 +2,7 @@
 # I'm Muhtasir Shafkat
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3781DA&width=435&lines=Software+Engineer;Full-Stack+Web+Developer;Writing+Words%2C+Compiling+Code;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3781DA&center=false&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Web+Developer;Writing+Words%2C+Compiling+Code;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ## 🤠 Who Am I? 
@@ -12,13 +12,23 @@
 - 🎯 **Goal:** To craft high-impact digital experiences and grow as a Developer.
 - 📫 **How to reach me:** [msm.shafkat@gmail.com](mailto:msm.shafkat@gmail.com)
 
+---
+
+## 🚀 Recent Projects & Focus
+- 🔭 **I’m currently working on:** Scaling full-stack applications with high performance.
+- 🌱 **I’m currently learning:** Advanced Cloud Architecture and Microservices.
+- 👯 **I’m looking to collaborate on:** Open Source React and Laravel packages.
+- 💬 **Ask me about:** JavaScript, PHP, and why I love the Dark Mode aesthetic.
+
 <p align="center">
     <img src="https://img.freepik.com/free-vector/abstract-new-app-development-elements-illustrated_23-2148683146.jpg?w=1060" alt="development" width="40%" style="border-radius:20px; border: 2px solid #3781DA;" />
 </p>
 
+---
+
 ## 🌟 My Weapons
 
-### 💻 Tech Stack
+### 💻 Core Tech Stack
 <table>
   <tr>
     <td align="center" width="96">
@@ -84,8 +94,10 @@
 
 ### 🛠️ Tools & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,netlify,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,netlify,vscode,npm,mysql,docker,figma" />
 </p>
+
+---
 
 ## 🏆 GitHub Status
 
@@ -107,7 +119,14 @@
 ### 📈 Activity Graph
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=shafkat63&theme=react-dark)
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/shafkat63/shafkat63/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <br>
+
+---
 
 <p align="center"><b>Wanna Know me More?</b></p>
 
@@ -121,6 +140,12 @@
     <a href="https://medium.com/@msm.shafkat99" target="_blank">
         <img src="https://img.shields.io/badge/-Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/shafkat63">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160" />
+  </a>
 </p>
 
 <p align="center">
